@@ -1,0 +1,206 @@
+nome_loja,regiao,diretoria,data_inauguracao
+SP Capital Sul_59,SP Capital Sul,Grande SP,09/08/2020
+SP Capital Sul_30,SP Capital Sul,Grande SP,05/03/2000
+SP Capital Sul_17,SP Capital Sul,Grande SP,28/02/2019
+SP Capital Sul_9,SP Capital Sul,Grande SP,16/05/2001
+SP Capital Sul_97,SP Capital Sul,Grande SP,12/07/2017
+SP Capital Sul_90,SP Capital Sul,Grande SP,15/04/2000
+SP Capital Sul_19,SP Capital Sul,Grande SP,27/01/2018
+SP Capital Sul_64,SP Capital Sul,Grande SP,06/04/2010
+SP Capital Sul_46,SP Capital Sul,Grande SP,31/08/2011
+SP Capital Sul_5,SP Capital Sul,Grande SP,13/09/2000
+SP Capital Sul_56,SP Capital Sul,Grande SP,24/12/2020
+SP Capital Sul_18,SP Capital Sul,Grande SP,09/08/2006
+SP Capital Sul_93,SP Capital Sul,Grande SP,10/01/2006
+SP Capital Sul_79,SP Capital Sul,Grande SP,12/01/2013
+SP Capital Sul_80,SP Capital Sul,Grande SP,27/01/2014
+SP Capital Sul_100,SP Capital Sul,Grande SP,03/07/2003
+SP Capital Sul_87,SP Capital Sul,Grande SP,30/07/2020
+SP Capital Sul_47,SP Capital Sul,Grande SP,28/01/2017
+SP Capital Sul_20,SP Capital Sul,Grande SP,20/12/2007
+SP Capital Sul_31,SP Capital Sul,Grande SP,05/04/2004
+SP Capital Sul_29,SP Capital Sul,Grande SP,02/01/2016
+SP Capital Sul_37,SP Capital Sul,Grande SP,29/10/2010
+SP Capital Sul_74,SP Capital Sul,Grande SP,12/03/2010
+SP Capital Sul_60,SP Capital Sul,Grande SP,21/08/2023
+SP Capital Sul_3,SP Capital Sul,Grande SP,29/06/2002
+SP Capital Sul_84,SP Capital Sul,Grande SP,01/12/2013
+SP Capital Sul_10,SP Capital Sul,Grande SP,19/01/2015
+SP Capital Sul_51,SP Capital Sul,Grande SP,07/12/2005
+SP Capital Sul_6,SP Capital Sul,Grande SP,02/09/2012
+SP Capital Sul_23,SP Capital Sul,Grande SP,27/09/2003
+SP Capital Sul_16,SP Capital Sul,Grande SP,12/10/2023
+SP Capital Sul_57,SP Capital Sul,Grande SP,17/06/2010
+SP Capital Sul_67,SP Capital Sul,Grande SP,23/11/2020
+SP Capital Centro_80,SP Capital Centro,Grande SP,16/05/2018
+SP Capital Centro_97,SP Capital Centro,Grande SP,14/04/2015
+SP Capital Centro_96,SP Capital Centro,Grande SP,21/04/2012
+SP Capital Centro_60,SP Capital Centro,Grande SP,18/12/2002
+SP Capital Centro_10,SP Capital Centro,Grande SP,24/09/2016
+SP Capital Centro_90,SP Capital Centro,Grande SP,16/08/2009
+SP Capital Centro_87,SP Capital Centro,Grande SP,03/11/2006
+SP Capital Centro_41,SP Capital Centro,Grande SP,26/09/2009
+SP Capital Centro_47,SP Capital Centro,Grande SP,27/08/2002
+SP Capital Centro_77,SP Capital Centro,Grande SP,17/12/2020
+SP Capital Centro_53,SP Capital Centro,Grande SP,27/09/2005
+SP Capital Centro_11,SP Capital Centro,Grande SP,12/02/2005
+SP Capital Centro_58,SP Capital Centro,Grande SP,23/05/2013
+SP Capital Centro_69,SP Capital Centro,Grande SP,20/07/2004
+SP Capital Centro_99,SP Capital Centro,Grande SP,01/10/2002
+SP Capital Centro_48,SP Capital Centro,Grande SP,17/01/2012
+SP Capital Centro_92,SP Capital Centro,Grande SP,08/11/2017
+SP Capital Centro_2,SP Capital Centro,Grande SP,23/01/2016
+SP Capital Centro_38,SP Capital Centro,Grande SP,07/06/2017
+SP Capital Centro_93,SP Capital Centro,Grande SP,10/04/2015
+SP Capital Leste/Oeste_11,SP Capital Leste/Oeste,Grande SP,27/08/2016
+SP Capital Leste/Oeste_91,SP Capital Leste/Oeste,Grande SP,30/08/2007
+SP Capital Leste/Oeste_69,SP Capital Leste/Oeste,Grande SP,29/10/2018
+SP Capital Leste/Oeste_37,SP Capital Leste/Oeste,Grande SP,23/01/2013
+SP Capital Leste/Oeste_18,SP Capital Leste/Oeste,Grande SP,02/04/2012
+SP Capital Leste/Oeste_23,SP Capital Leste/Oeste,Grande SP,20/10/2003
+SP Capital Leste/Oeste_93,SP Capital Leste/Oeste,Grande SP,18/12/2010
+SP Capital Leste/Oeste_89,SP Capital Leste/Oeste,Grande SP,01/02/2022
+SP Capital Leste/Oeste_54,SP Capital Leste/Oeste,Grande SP,20/12/2009
+SP Capital Leste/Oeste_82,SP Capital Leste/Oeste,Grande SP,17/02/2020
+SP Capital Leste/Oeste_85,SP Capital Leste/Oeste,Grande SP,30/03/2013
+SP Capital Leste/Oeste_39,SP Capital Leste/Oeste,Grande SP,28/06/2017
+SP Capital Leste/Oeste_79,SP Capital Leste/Oeste,Grande SP,19/02/2017
+SP Capital Leste/Oeste_66,SP Capital Leste/Oeste,Grande SP,19/07/2006
+SP Capital Leste/Oeste_53,SP Capital Leste/Oeste,Grande SP,02/07/2024
+SP Capital Leste/Oeste_25,SP Capital Leste/Oeste,Grande SP,28/03/2012
+SP Capital Leste/Oeste_2,SP Capital Leste/Oeste,Grande SP,18/11/2001
+SP Capital Leste/Oeste_10,SP Capital Leste/Oeste,Grande SP,21/10/2018
+SP Capital Leste/Oeste_97,SP Capital Leste/Oeste,Grande SP,22/10/2013
+SP Capital Leste/Oeste_8,SP Capital Leste/Oeste,Grande SP,24/10/2019
+SP Capital Leste/Oeste_34,SP Capital Leste/Oeste,Grande SP,30/09/2008
+SP Capital Leste/Oeste_58,SP Capital Leste/Oeste,Grande SP,15/11/2004
+SP Capital Leste/Oeste_14,SP Capital Leste/Oeste,Grande SP,11/07/2000
+SP Capital Leste/Oeste_5,SP Capital Leste/Oeste,Grande SP,31/05/2019
+SP Capital Leste/Oeste_100,SP Capital Leste/Oeste,Grande SP,02/08/2020
+SP Capital Leste/Oeste_56,SP Capital Leste/Oeste,Grande SP,22/06/2018
+SP Capital Leste/Oeste_48,SP Capital Leste/Oeste,Grande SP,30/07/2001
+SP Interior_76,SP Interior,SP Interior/Sudeste,07/08/2023
+SP Interior_42,SP Interior,SP Interior/Sudeste,26/10/2016
+SP Interior_64,SP Interior,SP Interior/Sudeste,15/01/2024
+SP Interior_8,SP Interior,SP Interior/Sudeste,28/01/2005
+SP Interior_84,SP Interior,SP Interior/Sudeste,10/11/2001
+SP Interior_21,SP Interior,SP Interior/Sudeste,20/09/2001
+SP Interior_39,SP Interior,SP Interior/Sudeste,24/12/2012
+SP Interior_36,SP Interior,SP Interior/Sudeste,13/08/2011
+SP Interior_100,SP Interior,SP Interior/Sudeste,23/01/2014
+SP Interior_13,SP Interior,SP Interior/Sudeste,28/08/2023
+SP Interior_87,SP Interior,SP Interior/Sudeste,25/04/2009
+SP Interior_61,SP Interior,SP Interior/Sudeste,05/11/2009
+SP Interior_17,SP Interior,SP Interior/Sudeste,23/04/2007
+SP Interior_23,SP Interior,SP Interior/Sudeste,04/02/2006
+SP Interior_43,SP Interior,SP Interior/Sudeste,20/01/2008
+SP Interior_9,SP Interior,SP Interior/Sudeste,14/10/2019
+SP Interior_44,SP Interior,SP Interior/Sudeste,23/07/2009
+SP Interior_92,SP Interior,SP Interior/Sudeste,03/01/2015
+SP Interior_30,SP Interior,SP Interior/Sudeste,03/04/2016
+SP Interior_20,SP Interior,SP Interior/Sudeste,12/02/2003
+SP Interior_33,SP Interior,SP Interior/Sudeste,19/02/2018
+SP Interior_83,SP Interior,SP Interior/Sudeste,06/01/2004
+SP Interior_90,SP Interior,SP Interior/Sudeste,30/01/2022
+SP Interior_99,SP Interior,SP Interior/Sudeste,02/10/2018
+SP Interior_11,SP Interior,SP Interior/Sudeste,06/04/2020
+SP Interior_16,SP Interior,SP Interior/Sudeste,02/01/2007
+SP Interior_82,SP Interior,SP Interior/Sudeste,21/09/2005
+SP Interior_32,SP Interior,SP Interior/Sudeste,15/09/2013
+SP Interior_72,SP Interior,SP Interior/Sudeste,25/08/2011
+SP Interior_75,SP Interior,SP Interior/Sudeste,11/10/2020
+SP Interior_65,SP Interior,SP Interior/Sudeste,12/08/2023
+SP Interior_91,SP Interior,SP Interior/Sudeste,01/03/2014
+SP Interior_70,SP Interior,SP Interior/Sudeste,20/01/2008
+SP Interior_93,SP Interior,SP Interior/Sudeste,09/06/2007
+SP Interior_14,SP Interior,SP Interior/Sudeste,14/09/2012
+MG_80,MG,SP Interior/Sudeste,06/07/2006
+MG_37,MG,SP Interior/Sudeste,15/01/2022
+MG_21,MG,SP Interior/Sudeste,24/03/2020
+MG_54,MG,SP Interior/Sudeste,24/09/2006
+MG_26,MG,SP Interior/Sudeste,14/09/2021
+MG_5,MG,SP Interior/Sudeste,03/02/2007
+MG_23,MG,SP Interior/Sudeste,19/08/2021
+MG_36,MG,SP Interior/Sudeste,26/09/2012
+MG_24,MG,SP Interior/Sudeste,31/10/2001
+MG_39,MG,SP Interior/Sudeste,14/08/2007
+MG_29,MG,SP Interior/Sudeste,14/01/2007
+MG_70,MG,SP Interior/Sudeste,28/03/2017
+MG_34,MG,SP Interior/Sudeste,22/11/2000
+RJ_91,RJ,SP Interior/Sudeste,24/09/2008
+RJ_57,RJ,SP Interior/Sudeste,23/02/2018
+RJ_50,RJ,SP Interior/Sudeste,15/04/2005
+RJ_14,RJ,SP Interior/Sudeste,02/10/2017
+RJ_75,RJ,SP Interior/Sudeste,02/12/2012
+RJ_28,RJ,SP Interior/Sudeste,15/05/2006
+RJ_98,RJ,SP Interior/Sudeste,28/02/2008
+RJ_37,RJ,SP Interior/Sudeste,16/05/2000
+RJ_56,RJ,SP Interior/Sudeste,22/08/2006
+RJ_24,RJ,SP Interior/Sudeste,12/01/2022
+RJ_10,RJ,SP Interior/Sudeste,20/01/2017
+RJ_69,RJ,SP Interior/Sudeste,08/09/2018
+RJ_42,RJ,SP Interior/Sudeste,14/04/2011
+RJ_31,RJ,SP Interior/Sudeste,13/04/2015
+RJ_54,RJ,SP Interior/Sudeste,10/05/2001
+RJ_35,RJ,SP Interior/Sudeste,29/09/2022
+RJ_73,RJ,SP Interior/Sudeste,10/06/2005
+RJ_16,RJ,SP Interior/Sudeste,27/07/2022
+RJ_23,RJ,SP Interior/Sudeste,17/10/2006
+RJ_72,RJ,SP Interior/Sudeste,26/02/2023
+RJ_47,RJ,SP Interior/Sudeste,27/08/2001
+RJ_82,RJ,SP Interior/Sudeste,29/07/2007
+PR_11,PR,Sul,17/12/2019
+PR_74,PR,Sul,29/09/2014
+PR_73,PR,Sul,22/03/2003
+PR_29,PR,Sul,11/02/2001
+PR_54,PR,Sul,26/01/2020
+PR_38,PR,Sul,24/05/2009
+PR_15,PR,Sul,18/01/2019
+PR_2,PR,Sul,29/05/2008
+PR_93,PR,Sul,15/07/2011
+PR_90,PR,Sul,21/06/2012
+PR_47,PR,Sul,25/07/2024
+PR_4,PR,Sul,09/05/2001
+PR_68,PR,Sul,19/10/2023
+PR_78,PR,Sul,12/12/2000
+PR_13,PR,Sul,19/07/2012
+PR_28,PR,Sul,16/03/2024
+PR_89,PR,Sul,30/06/2017
+PR_95,PR,Sul,25/06/2017
+PR_33,PR,Sul,12/09/2018
+PR_23,PR,Sul,15/11/2015
+PR_99,PR,Sul,12/01/2010
+SC_69,SC,Sul,01/10/2002
+SC_80,SC,Sul,03/11/2022
+SC_46,SC,Sul,10/05/2024
+SC_23,SC,Sul,21/10/2014
+SC_83,SC,Sul,18/02/2017
+SC_39,SC,Sul,06/09/2011
+SC_6,SC,Sul,21/03/2003
+SC_18,SC,Sul,03/05/2018
+SC_10,SC,Sul,26/09/2013
+SC_91,SC,Sul,14/03/2015
+SC_30,SC,Sul,17/04/2021
+SC_47,SC,Sul,17/05/2019
+SC_13,SC,Sul,29/11/2021
+SC_25,SC,Sul,19/08/2020
+SC_49,SC,Sul,25/03/2023
+RS_4,RS,Sul,28/04/2023
+RS_2,RS,Sul,14/09/2000
+RS_3,RS,Sul,10/03/2003
+RS_6,RS,Sul,17/09/2017
+RS_16,RS,Sul,18/04/2018
+RS_92,RS,Sul,18/09/2023
+RS_90,RS,Sul,20/09/2011
+RS_37,RS,Sul,01/08/2024
+RS_80,RS,Sul,11/05/2019
+RS_14,RS,Sul,18/10/2016
+RS_59,RS,Sul,03/05/2000
+RS_38,RS,Sul,12/02/2012
+RS_17,RS,Sul,21/01/2004
+RS_26,RS,Sul,02/10/2000
+RS_25,RS,Sul,30/01/2007
+RS_84,RS,Sul,02/03/2009
+RS_61,RS,Sul,19/02/2006
+RS_21,RS,Sul,10/06/2015
+RS_66,RS,Sul,07/04/2009

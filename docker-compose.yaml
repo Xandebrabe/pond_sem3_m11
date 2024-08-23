@@ -22,6 +22,7 @@ services:
       - "8123:8123"  # Porta para a HTTP interface
     volumes:
       - clickhouse_data:/var/lib/clickhouse  # Persistência de dados
+      - ./users.xml:/etc/clickhouse-server/user.xml  # Configuração de senha clickhouse
     restart: always
 
 volumes:
